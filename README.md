@@ -20,3 +20,7 @@ cd client && npm i
 ```
 npm run dev
 ```
+
+## Images
+
+![ScreenShot](image/img-1.png)
